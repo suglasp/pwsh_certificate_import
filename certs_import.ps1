@@ -2,7 +2,7 @@
 #
 # Pieter De Ridder
 #
-# Script to import certificates to user of computer stores.
+# Script to import certificates to user or computer stores.
 #
 # Create date : 07/09/2020
 # Change date : 08/09/2020
