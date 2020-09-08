@@ -1,0 +1,3 @@
+
+Powershell utility set to import certificates (cer, p12, pfx) and also store eventually a pfx (or p12) password in a hash file.
+The hash file is useful if you need to place the cert on a netwerk share for import with a script.
